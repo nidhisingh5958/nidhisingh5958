@@ -12,7 +12,7 @@
 - 🎓 I'm currently pursuing **B.Tech in Computer Science**
 - 🔐 Enthusiastic about **Cybersecurity**, and **App Development**
 - 🛠️ Currently building: [`Cyber Buddy`](https://github.com/nidhisingh5958/cyber_buddy) – a Generative AI-powered cybersecurity assistant
-- 💬 Ask me about: `Flutter`, `Python`, `FastAPI`, `GenAI`, `Riverpod`, `ML`
+- 💬 Ask me about: `Flutter`, `Python`, `FastAPI`, `GenAI`, `Riverpod`
 - 📫 Reach me at: **nidhisingh5958@gmail.com**
 
 ---
@@ -44,16 +44,6 @@ A mobile news aggregator app with category-based filters and a dynamic UI.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
----
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhisingh5958&show_icons=true&theme=radical" alt="nidhisingh5958" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhisingh5958&theme=radical" />
 </p>
 
 ---
