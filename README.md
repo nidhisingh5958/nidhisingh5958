@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Singh</h1>
 <h3 align="center">A passionate Computer Science undergrad | Cybersecurity </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhisingh5958&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisingh5958" />
-</p>
-
 ---
 
 🌟 **About Me**
