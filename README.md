@@ -25,8 +25,8 @@ A Flutter-based healthcare app for managing medical documents, appointments, and
 🌤️ [Weather App](https://github.com/nidhisingh5958/weather_app)  
 Minimal and clean weather app built with Flutter, using OpenWeatherMap API.
 
-📰 [News App](https://github.com/nidhisingh5958/news_app)  
-A mobile news aggregator app with category-based filters and a dynamic UI.
+📰 [Fake News Detector](https://github.com/nidhisingh5958/news_app)  
+A modern web application that uses AI and linguistic analysis to detect potential misinformation in news articles and text content.
 
 ---
 
