@@ -1,4 +1,4 @@
-<h1># 👩‍💻 Hi, I'm Nidhi Singh</h1>
+# 👩‍💻 Hi, I'm Nidhi Singh
 **Computer Science Undergrad | Cybersecurity | Machine Learning | App Developer**
 
 I am a passionate developer focused on the intersection of **Cybersecurity** and **Artificial Intelligence**. I enjoy building secure, intelligent applications that solve real-world problems, ranging from healthcare to digital safety.
