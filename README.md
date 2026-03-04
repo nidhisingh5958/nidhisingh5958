@@ -1,75 +1,62 @@
-<h1 align="center">Hi 👋, I'm Nidhi Singh</h1>
-<h3 align="center">A passionate Computer Science undergrad | Cybersecurity </h3>
+# 👩‍💻 Hi, I'm Nidhi Singh
+**Computer Science Undergrad | Cybersecurity | Machine Learning | App Developer**
+
+I am a passionate developer focused on the intersection of **Cybersecurity** and **Artificial Intelligence**. I enjoy building secure, intelligent applications that solve real-world problems, ranging from healthcare to digital safety.
 
 ---
 
-🌟 **About Me**
-
-- 🎓 I'm currently pursuing **B.Tech in Computer Science**
-- 🔐 Enthusiastic about **Cybersecurity**, and **App Development**
-- 🛠️ Currently building: [`Cyber Buddy`](https://github.com/nidhisingh5958/cyber_buddy) – a Generative AI-powered cybersecurity assistant
-- 💬 Ask me about: `Flutter`, `Python`, `FastAPI`, `GenAI`, `Riverpod`
-- 📫 Reach me at: **nidhisingh5958@gmail.com**
+### 🧠 Machine Learning & AI
+* **Applied ML:** Integrating models into cross-platform applications for real-time inference.
+* **NLP:** Text classification and fine-tuning **DistilBERT** for misinformation detection.
+* **GenAI & RAG:** Building context-aware assistants using **LangChain** and **OpenAI**.
+* **On-Device AI:** Implementing privacy-first, offline-ready models using **TensorFlow Lite**.
 
 ---
 
-💼 **Projects Showcase**
+### 🚀 Featured Projects
 
-🚀 [Cyber Buddy](https://github.com/nidhisingh5958/cyber_buddy)  
-AI-powered cybersecurity assistant desktop app with log analysis, alerts, chatbot, and user-friendly UI  
-**Tech Stack**: Flutter, FastAPI, OpenAI, Riverpod
+#### 📍 [**NavSwap**](https://github.com/NavSwap/App)
+*An intelligent navigation system focused on optimised routing and seamless user transitions.*
+* **Achievement:** Reached **Top 7** in the **HackSmart Hackathon** by Battery Smart.
+* **Tech Stack:** `Flutter`, `Google Maps API`, `FastAPI`.
 
-🩺 [CureBit](https://github.com/nidhisingh5958/cure-bit)  
-A Flutter-based healthcare app for managing medical documents, appointments, and more, with a minimal and aesthetic design.  
+#### 🎧 [**ListenIQ**](https://github.com/Team-Manusmriti/ai-challenge-submission-project-manusmriti)
+*An offline-first mobile AI assistant designed for high privacy and accessibility.*
+* **Context:** Developed for the **Samsung EnnovateX 2025 AI Challenge**.
+* **Tech Stack:** `Flutter`, `On-device ML (TFLite)`, `Dart`.
 
-🌤️ [Weather App](https://github.com/nidhisingh5958/weather_app)  
-Minimal and clean weather app built with Flutter, using OpenWeatherMap API.
+#### 🔐 [**Cyber Comrade**](https://github.com/yourusername/cyber-comrade)
+*Generative AI-powered cybersecurity assistant for desktop platforms.*
+* **Features:** RAG-based security chat and automated log analysis for threat detection.
+* **Tech Stack:** `Flutter`, `FastAPI`, `OpenAI`, `Riverpod`.
 
-📰 [Fake News Detector](https://github.com/nidhisingh5958/fake_news_detector)  
-A modern web application that uses AI and linguistic analysis to detect potential misinformation in news articles and text content.
-
----
-
-🧠 **Skills & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
+#### 📰 [**AI Fake News Detector**](https://github.com/yourusername/fake-news-detector)
+*A modern web application using AI and linguistic analysis to detect misinformation.*
+* **Features:** Real-time news verification using DistilBERT and RAG.
+* **Tech Stack:** `Python`, `Transformers`, `React`.
 
 ---
 
-📫 **Connect with Me**
+### 🛠️ Skills & Tools
 
-<p>
-  <a href="https://www.linkedin.com/in/nidhi-singh-8285a128b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nidhisingh5958@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `Dart`, `SQL`, `C++`|
+| **Machine Learning** | `TensorFlow Lite`, `HuggingFace`, `Scikit-learn`, `LangChain` |
+| **Mobile & Desktop** | `Flutter`, `Riverpod`, `Firebase`, `FastAPI`, `Figma` |
+| **Cybersecurity** | `Threat Detection`, `Log Analysis`, `Cryptography`, `OSINT` |
 
 ---
 
+### 📊 GitHub Statistics
+![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisingh5958&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisingh5958&layout=compact&theme=tokyonight)
 
+---
 
-<!--
-**nidhisingh5958/nidhisingh5958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Connect with Me
+* 📧 **Email:** [nidhisingh5958@gmail.com](mailto:nidhisingh5958@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/nidhi-singh-8285a128b/)
+* 🛠️ **Currently Learning:** Advanced Deep Learning for Intrusion Detection Systems (IDS).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
