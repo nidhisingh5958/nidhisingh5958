@@ -48,12 +48,6 @@ I am a passionate developer focused on the intersection of **Cybersecurity** and
 
 ---
 
-### 📊 GitHub Statistics
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisingh5958&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisingh5958&layout=compact&theme=tokyonight)
-
----
-
 ### 💬 Connect with Me
 * 📧 **Email:** [nidhisingh5958@gmail.com](mailto:nidhisingh5958@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/nidhi-singh-8285a128b/)
