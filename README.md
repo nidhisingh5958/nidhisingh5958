@@ -2,7 +2,7 @@
 
 # Hi, I'm Nidhi Singh 👋
 
-### 🔐 Cybersecurity • 🤖 Artificial Intelligence • 📱 App Development
+### Cybersecurity • Artificial Intelligence • App Development
 
 *Passionate about engineering secure, intelligent, and privacy-focused systems.*  
 *Focused on digital safety, misinformation mitigation, AI agents, and privacy-preserving tools.*
@@ -18,13 +18,13 @@
 
 ---
 
-### 🚀 Currently Building
+### Currently Building
 
-> 🛡️ **[Restrct](https://www.restrct.com/)** — A privacy-focused platform engineered to give users full control over their digital footprint and data security.
+>  **[Restrct](https://www.restrct.com/)** — A privacy-focused platform engineered to give users full control over their digital footprint and data security.
 
 ---
 
-### 🛠️ Tech Stack & Focus Areas
+### Tech Stack & Focus Areas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -38,10 +38,10 @@
 
 ---
 
-### 🤝 Let's Collaborate
+### Let's Collaborate
 
 I am open to collaborating on:
-- **Zero-Trust & Privacy Tools:** Architectures that minimize data exposure and prevent tracking.
+- **Zero-Trust & Privacy Tools:** Architectures that minimise data exposure and prevent tracking.
 - **Applied AI:** Models for threat detection, misinformation filtering, and automated safety analysis.
 - **Secure App Development:** Production-ready mobile and web applications built with security by default.
 
